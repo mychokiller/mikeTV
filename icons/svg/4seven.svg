@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1000 1349.5059"
+   id="LogoSeven4"
+   focusable="false"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="optimised-16.svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1020"
+     inkscape:window-height="975"
+     id="namedview7"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.27302233"
+     inkscape:cx="638.25158"
+     inkscape:cy="364.06095"
+     inkscape:window-x="895"
+     inkscape:window-y="-16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="LogoSeven4" />
+  <g
+     class="negative"
+     id="g3"
+     transform="matrix(4.1097738,0,0,4.1097738,-0.0012384,0)"
+     style="fill:none;stroke:none">
+    <path
+       d="m 152.4573,0 -3.946,4.872 0,42.355 24.66,-30.453 L 152.4573,0 z m -47.737,58.949 0,117.095 26.655,0 0,-150.011 -26.655,32.916 z m 43.791,15.508 0,101.587 26.657,0 0,-134.505 -26.657,32.918 z m -138.614,101.587 34.297,0 43.384,-53.573 0,-42.353 -77.681,95.926 z m -9.897,43.793 131.376,0 0,-26.656 -131.376,0 0,26.656 z m 104.72,108.528 26.655,0 0,-91.392 -26.655,0 0,91.392 z m -43.791,0 26.655,0 0,-26.656 -26.655,0 0,26.656 z"
+       id="digitSeven4"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+    <polygon
+       id="signSeven4"
+       points="148.5117,328.3645 163.0777,328.3645 243.3227,229.2695 243.3227,193.1805 148.5117,193.1805 148.5117,219.8365 216.6617,219.8365 148.5117,303.9945 "
+       style="fill:#00c9c8" />
+  </g>
+</svg>
